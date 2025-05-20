@@ -8,5 +8,5 @@
 ## Habilidades
 - Conocimientos básicos en programación
 - Uso de herramientas colaborativas como GitHub
--Ingeniro cloud
--xd
+- Ingeniro cloud
+- xd
